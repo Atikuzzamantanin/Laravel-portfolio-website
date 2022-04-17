@@ -1,0 +1,25 @@
+.loadimg{height: 100px;}
+
+.imgpreview{
+    border: none;
+    width: 100%;
+    object-fit: cover;
+    height: 320px;
+}
+
+.imgOnRow{
+    border: none !important;
+    width: 95%;
+    object-fit: cover;
+    height: 220px;
+}
+
+.serviceImage img{
+    width: 50%;
+    height: 50px;
+}
+
+.projectImage img{
+    width: 50%;
+    height: 50px;
+}
